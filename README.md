@@ -20,3 +20,12 @@ git add {file name}
 To record the changes in git, commit command is used.
 
 <img src="./images/commit.png">
+
+### Link the remote repository & Push
+   
+```
+git remote add origin <link>
+git push origin master
+```
+
+<img src="./images/Link remote and push.png">
