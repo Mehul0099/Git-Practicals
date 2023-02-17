@@ -32,5 +32,25 @@ git push origin master
 
 # Practical 1 : Pull & Merge difference
 Git pull command is fetch the history from remote branch and merge it into current branch. 
+    
+```
+git pull origin master
+```
 
 <img src="./images/p1/1.png">
+
+
+Pull request is used to request the user to pull the code from our repository or branch.
+The owner can review changes, approve them and merge the changes.
+
+<img src="./images/p1/2.png">
+
+Git merge command merge current branch with target branch.
+
+    
+```
+git merge master
+```
+
+<img src="./images/p1/3.png">
+
