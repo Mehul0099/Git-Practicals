@@ -29,3 +29,8 @@ git push origin master
 ```
 
 <img src="./images/Link remote and push.png">
+
+# Practical 1 : Pull & Merge difference
+Git pull command is fetch the history from remote branch and merge it into current branch. 
+
+<img src="./images/p1/1.png">
