@@ -59,3 +59,11 @@ git merge master
 
 <img src="./images/p1/3.png">
 
+# Practical 2 : Rebase
+Git rebase command take all commit of target branch and add inside current branch as it is. It is the process of moving or combining a sequence of commits to a new base commit.
+
+```
+git rebase {target branch}
+```
+
+
