@@ -19,4 +19,4 @@ git add {file name}
 
 To record the changes in git, commit command is used.
 
-<img src= "./images/commit.png">
+<img src="./images/commit.png">
