@@ -65,5 +65,15 @@ Git rebase command take all commit of target branch and add inside current branc
 ```
 git rebase {target branch}
 ```
+first doing three commits in master branch
 
+<img src="./images/p2/1.png">
+
+now switch into a feature branch and doing a two commits
+
+<img src="./images/p2/2.png">
+
+after applying rebase :
+
+<img src="./images/p2/3.png">
 
