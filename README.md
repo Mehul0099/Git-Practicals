@@ -42,6 +42,11 @@ git pull origin master
 
 Pull request is used to request the user to pull the code from our repository or branch.
 The owner can review changes, approve them and merge the changes.
+    
+```
+git pull origin master
+```
+
 
 <img src="./images/p1/2.png">
 
