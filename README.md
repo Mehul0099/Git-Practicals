@@ -77,3 +77,20 @@ after applying rebase :
 
 <img src="./images/p2/3.png">
 
+# Practical 3 : Change commit message
+
+Change the message of the last commit using Commit --amend command
+
+```
+git commit --amend
+```
+<img src="./images/p3/1.png">
+<img src="./images/p3/2.png">
+
+Change the message of the commit using rebase
+
+<img src="./images/p3/3.png">
+<img src="./images/p3/4.png">
+
+
+
