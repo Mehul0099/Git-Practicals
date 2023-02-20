@@ -92,5 +92,14 @@ Change the message of the commit using rebase
 <img src="./images/p3/3.png">
 <img src="./images/p3/4.png">
 
+# Practical 4 : cherry pick
 
+Cherry-picking in Git stands for applying some commit from one branch into another branch. we can retrieve any commit from any branch and put it on current branch.
 
+```
+git cherry-pick <commit-hash>
+```
+
+<img src="./images/p4/1.png">
+<img src="./images/p4/2.png">
+<img src="./images/p4/3.png">
