@@ -103,3 +103,17 @@ git cherry-pick <commit-hash>
 <img src="./images/p4/1.png">
 <img src="./images/p4/2.png">
 <img src="./images/p4/3.png">
+
+# Practical 5 : Drop commit
+
+Reset command is used to drop any commit. 
+
+Reset --hard is used to permanently delete the commit.
+
+
+```
+git reset --hard HEAD^
+```
+
+<img src="./images/p5/1.png">
+<img src="./images/p5/2.png">
